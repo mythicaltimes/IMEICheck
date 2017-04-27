@@ -1,0 +1,14 @@
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\bin\Debug\IMEI Check.exe.config
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\bin\Debug\IMEI Check.exe
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\bin\Debug\IMEI Check.pdb
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\obj\Debug\IMEI Check.csprojResolveAssemblyReference.cache
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\obj\Debug\IMEI_Check.Form1.resources
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\obj\Debug\IMEI_Check.Properties.Resources.resources
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\obj\Debug\IMEI Check.csproj.GenerateResource.Cache
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\obj\Debug\IMEI Check.exe
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\obj\Debug\IMEI Check.pdb
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\bin\Debug\IMEI Check.exe.manifest
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\bin\Debug\IMEI Check.application
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\obj\Debug\IMEI Check.exe.manifest
+c:\users\mruzekb\documents\visual studio 2015\Projects\IMEI Check\IMEI Check\obj\Debug\IMEI Check.application
+C:\Users\MruzekB\Documents\Visual Studio 2015\Projects\IMEI Check\IMEI Check\obj\Debug\IMEI_Check.picture.resources
